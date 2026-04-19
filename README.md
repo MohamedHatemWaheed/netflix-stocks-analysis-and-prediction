@@ -14,7 +14,7 @@
 
 ## 📊 Dashboard Preview
 
-![Netflix Stock Dashboard](Netflix Financial and Stocks Analysis.png)
+![Netflix Stock Dashboard](Netflix%20Financial%20and%20Stocks%20Analysis.png)
 
 > Dashboard built in Power BI featuring KPI cards, price trend analysis, RSI indicator, volume trends, and year-over-year performance.
 
