@@ -3,17 +3,18 @@
 
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-Interactive%20Charts-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-Statistical-008080?style=for-the-badge&logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-Notebook-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
-> **A full-stack financial data analysis project tracking Netflix Inc. (NASDAQ: NFLX) stock performance from 2020 to the present — combining Python-powered data engineering, technical indicators, and an interactive BI dashboard.**
+> **Financial data analysis project tracking Netflix Inc. (NASDAQ: NFLX) stock performance from 2020 to the present — combining Python-powered data engineering, technical indicators, and an interactive BI dashboard.**
 
 ---
 
 ## 📊 Dashboard Preview
 
-![Netflix Stock Dashboard](dashboard_preview.png)
+![Netflix Stock Dashboard](Netflix Financial and Stocks Analysis.png)
 
 > Dashboard built in Power BI featuring KPI cards, price trend analysis, RSI indicator, volume trends, and year-over-year performance.
 
@@ -64,7 +65,6 @@ netflix-stock-analysis/
 | **Python 3.x** | Core language for all analysis and processing |
 | **Pandas** | Data loading, cleaning, manipulation, and aggregation |
 | **NumPy** | Vectorised mathematical operations and rolling calculations |
-| **Plotly / Plotly Express** | Interactive line charts, scatter plots, bar charts |
 | **Matplotlib** | Supplementary static visualisation during EDA |
 | **yFinance** | Historical OHLCV data retrieval from Yahoo Finance |
 | **Google Colab** | Cloud notebook environment for execution and sharing |
